@@ -1,0 +1,1 @@
+pacote contendo elementos para apresentação de spin de carregamento
